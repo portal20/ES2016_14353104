@@ -39,10 +39,15 @@
 > rospack profile
 
 ###三、效果截图
+* ros：
+  ![ros](https://github.com/portal20/ES2016_14353104/blob/master/Pictures/rosinstall.png)
 
 * 2d：
   ![2d](https://github.com/portal20/ES2016_14353104/blob/master/Pictures/2d.png)
 
+* 3d：
+  ![3d](https://github.com/portal20/ES2016_14353104/blob/master/Pictures/3d.png)
+
 ##实验感想
 
-这次实验内容比较高级，最后模拟2d和3d扫描建图的效果非常科幻。还是非常感谢谷歌能够提供这样一个开源的框架，让一般人能够有机会接触到这么多新奇的东西。
+这次实验内容比较高级，最后模拟2d和3d扫描建图的效果非常科幻。还是非常感谢谷歌能够提供这样一个开源的框架，让一般人能够有机会接触到这么多新奇的东西。整个框架的安装按照教程的步骤也比较顺利，容易出现的问题是最后catkin_ws需要重新配置，否则不能成功运行。
